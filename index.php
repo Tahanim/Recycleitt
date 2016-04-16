@@ -35,6 +35,9 @@ $db = "recycle_items";
 <body> 
  <video width="960" style="margin-top: 50px;" height="540" controls>
   <source src="movie.webm" type="video/webm" >
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
 </video>
 </body>
 </div>
