@@ -15,13 +15,13 @@ session_start();
 
     <link rel="shortcut icon" href="./recyclet.png" />		
 
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
     <!-- Camera -->
-    <link href="css/camera.css" rel="stylesheet">
+    <link href="camera.css" rel="stylesheet">
     <!-- Template  -->
-    <link href="css/templatemo_style.css" rel="stylesheet">
+    <link href="templatemo_style.css" rel="stylesheet">
 
 
 <div id="templatemo_mobile_menu">
@@ -82,12 +82,12 @@ session_start();
         <p id="footer">Copyright &copy; 2016 Recycle it</p>
     </div>
 </div>
-<script src="js/jquery.min.js"></script>
-<script src="js/jquery-ui.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery.singlePageNav.min.js"></script>
-<script src="js/unslider.min.js"></script>
+<script src="jquery.min.js"></script>
+<script src="jquery-ui.min.js"></script>
+<script src="bootstrap.min.js"></script>
+<script src="jquery.singlePageNav.min.js"></script>
+<script src="unslider.min.js"></script>
 <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
-<script src="js/templatemo_script.js"></script>
+<script src="templatemo_script.js"></script>
 </body>
 </html>
