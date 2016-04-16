@@ -178,7 +178,7 @@ function showPosition(position) {
         <div class="col-md-4">
           
 <figure>
-            <img src="images/areaMap.png" width="350" height="350" alt="our location">
+            <img src="areaMap.png" width="350" height="350" alt="our location">
              <figcaption><em>*Please note that we currently collect items only from this area. <em></figcaption>
 </figure>
  
