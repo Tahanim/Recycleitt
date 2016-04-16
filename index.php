@@ -22,19 +22,19 @@ $db = "recycle_items";
     <!-- Favicon-->
     <link rel="shortcut icon" href="./recyclet.png" />		
     <!-- Font Awesome -->
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="font-awesome.min.css" rel="stylesheet">
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="bootstrap.min.css" rel="stylesheet">
     <!-- Camera -->
-    <link href="css/camera.css" rel="stylesheet">
+    <link href="camera.css" rel="stylesheet">
     <!-- Template  -->
-    <link href="css/templatemo_style.css" rel="stylesheet">
+    <link href="templatemo_style.css" rel="stylesheet">
   
 
 <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
  <video width="960" style="margin-top: 50px;" height="540" controls>
-  <source src="movie.wmv" type="video/mp4" >
+  <source src="movie.wmv" type="video/wmv" >
 </video>
 </body>
 </div>
