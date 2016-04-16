@@ -34,7 +34,7 @@ $db = "recycle_items";
 <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
  <video width="960" style="margin-top: 50px;" height="540" controls>
-  <source src="movie.mp4" type="video/mp4" >
+  <source src="movie.wmv" type="video/mp4" >
 </video>
 </body>
 </div>
