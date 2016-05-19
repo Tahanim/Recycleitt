@@ -190,7 +190,7 @@ function showPosition(position) {
 	   if(isset($_GET['p']))
 	   {
 	   	  $points = $_GET['p']; 
-          echo "<script/> window.history.pushState('o','RI', 'http://localhost/RecycleItem/index.php'); </script>";
+          echo "<script/> window.history.pushState('o','RI', 'http://recycleit.azurewebsites.net/'); </script>";
 	   }
 	   ?>		
  <div class="col-md-6">
