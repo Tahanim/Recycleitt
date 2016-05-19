@@ -4,9 +4,9 @@ session_start();
 
 <?php
 // DB connection info
-$host = "ftp://waws-prod-sn1-029.ftp.azurewebsites.windows.net/site/wwwroot";
-$user = "Recycleit\$Recycleit";
-$pwd = "ncoYRn17nvouYiJDtxHAj81PomB8t7x4zzHpgLA2hDLYAkF5gGyAoAlHB9uZ";
+$host = "br-cdbr-azure-south-b.cloudapp.net";
+$user = "bb13edd72d8934;
+$pwd = "c8330e63";
 $db = "recycle_items";
 ?>
 
