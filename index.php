@@ -1,14 +1,4 @@
-<?php
-session_start();
-?>
-//try
-<?php
-// DB connection info
-$host = "br-cdbr-azure-south-b.cloudapp.net";
-$user = "bb13edd72d8934;
-$pwd = "c8330e63";
-$db = "recycle_items";
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">
