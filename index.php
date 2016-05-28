@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Recycle it</title>
+    <!--<title>Recycle it</title>-->
     <meta name="description" content="" />
     <meta name="author" content="templatemo">
     <!-- Favicon-->
@@ -24,7 +24,7 @@
                 
  <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
- <video width="142" style="margin-top: 50px;" height="72.5" controls>
+ <video width="250" style="margin-top: 50px;" height="172.5" controls>
   <source src="movie.webm" type="video/webm" >
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
