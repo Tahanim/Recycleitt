@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--<title>Recycle it</title>-->
+    <title>Recycle it</title>
     <meta name="description" content="" />
     <meta name="author" content="templatemo">
     <!-- Favicon-->
@@ -24,7 +24,7 @@
                 
  <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
- <video width="250" style="margin-top: 50px;" height="172.5" controls>
+ <video width="290" style="margin-top: 50px;" height="190.5" controls>
   <source src="movie.webm" type="video/webm" >
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
@@ -74,7 +74,7 @@ function showPosition(position) {
             <div class="col-xs-4 templatemo_logo">
             	<a href="">
                 	<img src="recyclet.png" id="logo_img" alt="Recycle it website template" title="Recycle it Template" />
-                	<h1 id="logo_text">Recycle <span>it!</span></h1>
+                	<!--<h1 id="logo_text">Recycle <span>it!</span></h1>-->
                 </a>
             </div>
             <div class="col-sm-8 hidden-xs">
