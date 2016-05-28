@@ -20,21 +20,9 @@
     <!-- Template  -->
     <link href="templatemo_style.css" rel="stylesheet">
   
-<div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
-<body> 
-                    <h2>Who we are?</h2>
-                   
-                    <p> <b style="color:rgb(204, 0, 82);">  Recycle</b> <b style="color:rgb(136, 204, 0);">it</b> is an idea and a website that encourage the Saudi society to protect and save its environment by promoting and rewarding the recycling behavior. Recycle it aims to help developing a cleaner, healthier environment that benefits our nation and society.</p>
-                </div>
-            </div><!--.testimonial_text-->
-            <div class="testimonial_text">
-                <div class="col-sm-3">
-                    <img src="car.png" class="img-responsive" alt="Chief Public Relation Officer" />
-                </div>
-                </body>
-</div>
+
                 
-<!-- <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
+ <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
  <video width="960" style="margin-top: 50px;" height="540" controls>
   <source src="movie.webm" type="video/webm" >
@@ -43,7 +31,7 @@
 Your browser does not support the video tag.
 </video>
 </body>
-</div>-->
+</div>
 
 <script>
 var x = document.getElementById("demo");
