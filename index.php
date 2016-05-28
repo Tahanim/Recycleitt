@@ -20,7 +20,8 @@
     <!-- Template  -->
     <link href="templatemo_style.css" rel="stylesheet">
   
-  <div class="col-sm-9">
+<div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
+<body> 
                     <h2>Who we are?</h2>
                    
                     <p> <b style="color:rgb(204, 0, 82);">  Recycle</b> <b style="color:rgb(136, 204, 0);">it</b> is an idea and a website that encourage the Saudi society to protect and save its environment by promoting and rewarding the recycling behavior. Recycle it aims to help developing a cleaner, healthier environment that benefits our nation and society.</p>
@@ -30,6 +31,8 @@
                 <div class="col-sm-3">
                     <img src="car.png" class="img-responsive" alt="Chief Public Relation Officer" />
                 </div>
+                </body>
+</div>
                 
 <!-- <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
