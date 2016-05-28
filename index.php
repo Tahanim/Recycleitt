@@ -24,7 +24,7 @@
                 
  <div align="middle"  class="container_wapper" class="banner" id="templatemo_banner_slide">
 <body> 
- <video width="960" style="margin-top: 50px;" height="540" controls>
+ <video width="142" style="margin-top: 50px;" height="72.5" controls>
   <source src="movie.webm" type="video/webm" >
   <source src="movie.mp4" type="video/mp4">
   <source src="movie.ogg" type="video/ogg">
